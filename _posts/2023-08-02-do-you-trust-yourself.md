@@ -23,15 +23,17 @@ After quitting my full-time job as a product manager last year, my biggest strug
 
 I don't know when I'll go back to full-time work or how I'm going to make money, and that's okay. Dustin's quote is a helpful reminder: You can trust yourself. Reflect on your past successes - these are real data points you can reference anytime. Let them sit in the back of your mind, and call on them when the road ahead seems foggy. Trust yourself to persevere, and find an opening to thrive.
 
-## A creative journey
+## Create more
 
-I'm embarking on a new journey. To write more. To practice design. To sketch again. These are things I loved to do as a kid, but I foolishly gave them up, because I convinced myself I needed to in order to become a functioning adult.
+The topic of trusting oneself is relevant to where I am today. I've been mean to create more. To write often. To practice design. To sketch again. These are things I loved to do as a kid, but I foolishly gave them up, because I convinced myself I needed to in order to become a functioning adult.
 
-For now, my only goal for the next week is to play more. That's it. To use a digital or physical canvas as my playground for creative exploration and self-expression.
+I'm setting a goal for the next week to play more. That's it. To use a digital or physical canvas as my playground for creative exploration and self-expression.
 
 Each day, I'm choosing to commit to:
 - Publishing 1 essay (150 to 300 words)
 - Practicing design for at least 2 hours
 - Sketching for 1 hour
+
+I know it won't make me any money, but...
 
 **I trust myself.**
