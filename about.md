@@ -4,7 +4,7 @@ title: Hi, I'm [Hussam.](https://www.twitter.com/hussamfyi)
 ---
 
 <p class="message">
-I'm a former Product Manager exploring the [pathless path](https://think-boundless.com/the-pathless-path/). Frankly, I'm not sure where I'm going, but I'm using this site to document my journey and share lessons along the way. Hope you stick around!
+I'm a former Product Manager exploring the [pathless path](https://think-boundless.com/the-pathless-path/). Frankly, I'm not sure where I'm going, but I'm using this site to document my journey and share lessons along the way.
 </p>
 
 ## About Me
