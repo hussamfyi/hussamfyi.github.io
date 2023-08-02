@@ -4,7 +4,7 @@ title: Hi, I'm Hussam.
 ---
 
 <p class="message">
-I'm a product manager by day, creator by night. This site is my lifelog and digital playground where I document my creative journey to write more, practice UX/UI design and learn sketching.
+I'm a product manager by day, creator by night. This site is my digital playground, where I document my creative journey to write more, learn UI/UX and practice sketching.
 </p>
 
 ## About Me
