@@ -1,42 +1,12 @@
 ---
 layout: post
-title: Authentic self-expression
+title: Do you trust yourself?
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+It's simple but powerful question. Do you trust yourself?
 
------
+On Saturday July 29th, a battle for the ages took place in the UFC for the BMF title: Dustin Poirier vs. Justin Gaethje II. If you're a true fan of the sport, you weren't going to miss it. Legacy was on the line. Not to mention, both fighters have a reputation for putting on exciting, high-caliber fights, with everything a combat sports fan could ask for; devastating power, precise technicality and a pure display of grit.
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
+In the week leading up to the fight, I watched several media interviews of both fighters because I wanted to understand their mindset, motivations and fears. One exchange in particular, between Dustin Poirier and UFC Commentator John Anik caught my attention. Jon asked Dustin a question about how his resilience and focus has helped him in fights against dangerous, fast-charging opponents. Here's Dustin answer:
 
-This demo site was last updated {{ site.time | date: "%B %d, %Y" }}.
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
-
-## What's included
-
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404]({{ '404.html' | relative_url }}), [RSS feed]({{ 'atom.xml' | relative_url }}), posts, [archive page]({{ 'archive' | relative_url }}), and [example page]({{ 'about' | relative_url }}))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Jekyll's built-in support for Rouge
-
-Additional features are available in individual themes.
-
-## Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), Firefox, and Edge.
-
-## Download
-
-These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
-
-Thanks!
+Dustin: I know going in there that it's a fight. And bad things are probably going to happen. I'd love to go in there, clean the guy up, get out scratch-free and meet my family after. But I expect [bad things] to happen in these fights and <mark>I trust myself to find a way to persevere and find an opening, and just stay in there...I don't know...I just trust myself.</mark>
