@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About
+title: Hi, I'm Hussam.
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  This site is my lifelog and digital playground. I embarked on the pathless path last year when I quit my full-time job as a product manager. I'm not exactly sure where I'm going, but I'm using this space to document my journey and share lessons along the way. Hope you stick around!
 </p>
+
+
 
 In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
