@@ -11,6 +11,23 @@ In the week leading up to the fight I watched several media interviews of both f
 
 Here's Dustin's response:
 
-> I know going in there that it's a fight. And bad things are probably going to happen. I'd love to go in there, clean the guy up, get out scratch-free and meet my family after. But I expect [bad things] to happen in these fights and **I trust myself to find a way to persevere and find an opening, and just stay in there...I don't know...I just trust myself.**
+> I know going in there that it's a fight. And bad things are probably going to happen...**I trust myself to find a way to persevere and find an opening, and just stay in there...I don't know...I just trust myself.**
 
-That last bit about trusting one's self struck a deep chord with me.
+Unfortunately, Dustin didn't win that fight on Saturday. But that's the nature of fighting. You can spend days, weeks and months preparing for it, but one wrong move and you're laid out on the canvas unconscious.
+
+Still Dustin's loss doesn't take away from the power of his words, because on any risky path, we can still choose to trust ourselves and figure things out.
+
+After quitting my full-time job as a product manager last year, my biggest struggle has been figuring out how to balance work and play. More specifically, how do I carve out time to develop new skills and work on things that energize me, especially if there isn't an immediate monetary gain.
+
+I'm embarking on that journey today. To write more. To practice design. To sketch again. These are things I loved to do as a kid, but I foolishly gave them up because I convinced myself I had to in order to be a functioning adult.
+
+I don't know when I'll go back to full-time work or how I'm going to make money. And that's okay. Dustin's quote is a helpful reminder: You can trust yourself. Reflect on all of your past successes - these are real data points you can reference at anytime. Let them sit in the back of your mind, and call on them when the path seems foggy. Trust that you'll persever and find an opening to thrive.
+
+For now, my only goal for the next week is to play more. That's it. To use a digital or physical canvas as my playground for creative exploration and self-expression.
+
+Each day, I'll commit to:
+- Publishing 1 essay (150 to 300 words)
+- Practicing design for at least 2 hours
+- Sketching for 1 hour
+
+I trust myself to stick to that, and figure things out.
