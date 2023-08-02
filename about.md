@@ -1,17 +1,21 @@
 ---
 layout: page
-title: Hi, I'm [Hussam.](https://www.twitter.com/hussamfyi)
+title: Hi, I'm Hussam.
 ---
 
 <p class="message">
-I'm a former Product Manager exploring the [pathless path](https://think-boundless.com/the-pathless-path/). Frankly, I'm not sure where I'm going, but I'm using this site to document my journey and share lessons along the way.
+I'm a product manager by day, polymath by night. This site is my lifelog and digital playground where I document my creative journey to write more, practice UX/UI design and learn sketching.
 </p>
 
 ## About Me
 
-I'm a Generalist/[Wildcard](https://merki.ca/blog/what-is-a-wildcard-person). In a nutshell: I enjoy doing lots of things. Professionally, I found my footing as a Product Manager, but I'm still proud of the many weird, ambiguous titles I've held throughout my career like Special Projects Manager (WTF), Growth Lead or Sr. Associate. Previously, I worked at [Shakepay](https://shakepay.com/), Canada's largest bitcoin neobank, and I also had a brief stint as a Founder in Residence as part of Entrepreneur First's 2022 Toronto cohort.
+I'm a Generalist/[Wildcard](https://merki.ca/blog/what-is-a-wildcard-person). In a nutshell: I enjoy doing lots of things. Professionally, I found my footing as a Product Manager, but I'm proud of the many odd, ambiguous titles I've held throughout my career that didn't describe what I _actually_ did (Special Projects Manager, Growth Lead or Senior Associate).
 
-I'm fascinated by the idea of developing one's [craft](https://paulstamatiou.com/craft/) - especially when it comes to designing products people use everyday. Truthfully, I'm a designer and a creaitve at heart, but over the years I lost touch with the craft. That's why I started this site. My goal is to use it as a digital playground to document my creative journey to write more, practice UX/UI design and start sketching again.
+Previously, I was the 1st PM at [Shakepay](https://shakepay.com/), Canada's largest bitcoin neobank, and I was also a Founder in Residence in Entrepreneur First's Q4 2022 cohort.
+
+I love applying product psychology and intentionally designing apps to make them grow _fast_. But I'm also fascinated at the idea of developing one's [craft](https://paulstamatiou.com/craft/) - especially when it comes to designing products people use everyday.
+
+I'm a designer and a creative at heart, but over the years I've lost touch with that side of me. That's why I started this site. My goal is to use it as a place to document my journey to create more; whether through writing, design, sketching or whatever form it takes.
 
 ## Get In Touch
 
