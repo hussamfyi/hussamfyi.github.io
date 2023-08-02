@@ -17,6 +17,10 @@ I love applying product psychology and intentionally designing apps to make them
 
 I'm a designer and a creative at heart, but over the years I've lost touch with that side of me. That's why I started this site. My goal is to use it as a place to document my journey to create more; whether through writing, design, sketching or whatever form it takes.
 
+I hope you'll stick around for the ride!
+
 ## Get In Touch
 
-Find me on Twitter, LinkedIn, or email me!
+- [Twitter](https://www.twitter.com/hussamfyi)
+- [LinkedIn](https://www.linkedin.com/in/hussamfyi)
+- [Email](mailto:h@zaghal.ca)
