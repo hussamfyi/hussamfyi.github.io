@@ -25,18 +25,22 @@ I don't know when I'll go back to full-time work or how I'm going to make money,
 
 ## Create more
 
-The idea of trusting myself is relevant to me because, as someone that's self-employed, I'm in complete control of how I spend my time. And I've been meaning to use that time to create more. To write often. To practice design. To sketch again. These are things I loved to do as a kid, but I foolishly gave them up, because I convinced myself that's what adults do.
+The idea of trusting myself is relevant to me because, as someone that's self-employed, I'm in complete control of how I spend my time. And I've been meaning to use that time to create more. To write often. To practice design. To sketch again. These are things I loved to do as a kid but I lost touch with over the years.
 
-I've been sitting on the sidelines because I'm afraid of the unknown. To break that, I'm setting a goal for the next week to play more. That's it. To use a digital or physical canvas as my playground for creative exploration and self-expression.
+Meanwhile, I've sat on the sidelines and not tried to do things I genuinely enjoy because deep down I feel like they'd be a waste of time. I want to challenge myself to break that line of thinking, so I'm setting a challenge for the next week to play more. That's it. To use a digital or physical canvas as my playground for creative exploration and self-expression.
 
-Each day, I'm going to play by:
-- Publishing 1 essay (no matter how small)
-- Practicing design for at least 2hrs
-- Sketching for 30mins or more
-- Doing any other playful creative thing I can think of
+Each day, I'll challenge to play by:
+- Writing (and publishing 1 essay no matter how small)
+- Practicing design
+- Sketching
+- Any other playful creative thing I can think of
 
 These things might not make me any money (at least not right away).
 
-And I don't know what they'll lead to in the long run but...
+I don't know what doing these things will lead to in the long run.
+
+And I recognize that I might feel a natural pull to play more on some days vs. others.
+
+But either way...
 
 **I trust myself.**
