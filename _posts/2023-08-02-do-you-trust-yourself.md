@@ -35,8 +35,8 @@ Each day, I'm going to play by:
 - Sketching for 30mins or more
 - Doing any other playful creative thing I can think of
 
-It won't make me money (at least no right away).
+These things might not make me any money (at least not right away).
 
-I don't know where this will lead in the long term either, but...
+And I don't know what it will lead to in the long run but...
 
 **I trust myself.**
