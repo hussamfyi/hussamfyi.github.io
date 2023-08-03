@@ -5,7 +5,7 @@ title: Do you trust yourself?
 
 On Saturday July 29th, a battle for the ages took place on the [UFC 291](https://www.ufc.com/event/ufc-291) card for the BMF title: [Dustin Poirier](https://en.wikipedia.org/wiki/Dustin_Poirier) vs. [Justin Gaethje](https://en.wikipedia.org/wiki/Justin_Gaethje) II.
 
-If you're a fan of the sport, you weren't going to miss it. It was a true legacy fight. Not to mention, both fighters have a reputation for putting on exciting, high-caliber fights. It promised everything a combat sports fan could ask for; devastating power, precise technicality and a pure display of grit.
+If you're a fan of the sport, you weren't going to miss it. It was a legacy bout. Not to mention, both fighters have a reputation for putting on exciting, high-caliber fights. It promised everything a combat sports fan could ask for; devastating power, precise technicality and a pure display of grit.
 
 In the weeks leading up to the fight, I watched several media interviews of both fighters, because I wanted to understand their mindset, motivations and fears. One particular [conversation](https://youtu.be/PNPYvBc4CKA) between Dustin Poirier and UFC Commentator John Anik caught my attention. Dustin was [asked a question](https://youtu.be/PNPYvBc4CKA?t=138) about resilience, and how he had been able to consistently beat dangerous, fast-charging opponents (like Justin Gaethje) throughout his career.
 
