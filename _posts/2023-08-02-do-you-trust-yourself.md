@@ -25,15 +25,18 @@ I don't know when I'll go back to full-time work or how I'm going to make money,
 
 ## Create more
 
-The topic of trusting oneself is relevant to where I am today. I've been mean to create more. To write often. To practice design. To sketch again. These are things I loved to do as a kid, but I foolishly gave them up, because I convinced myself I needed to in order to become a functioning adult.
+The idea of trusting myself is relevant to me because, as someone that's self-employed, I'm in complete control of how I spend my time. And I've been meaning to use that time to create more. To write often. To practice design. To sketch again. These are things I loved to do as a kid, but I foolishly gave them up, because I convinced myself that's what adults do.
 
-I'm setting a goal for the next week to play more. That's it. To use a digital or physical canvas as my playground for creative exploration and self-expression.
+I've been sitting on the sidelines because I'm afraid of the unknown. To break that, I'm setting a goal for the next week to play more. That's it. To use a digital or physical canvas as my playground for creative exploration and self-expression.
 
-Each day, I'm choosing to commit to:
-- Publishing 1 essay (150 to 300 words)
-- Practicing design for at least 2 hours
-- Sketching for 1 hour
+Each day, I'm going to play by:
+- Publishing 1 essay (no matter how small)
+- Practicing design for at least 2hrs
+- Sketching for 30mins or more
+- Doing any other playful creative thing I can think of
 
-I know it won't make me any money, but...
+It won't make me money (at least no right away).
+
+I don't know where this will lead in the long term either, but...
 
 **I trust myself.**
