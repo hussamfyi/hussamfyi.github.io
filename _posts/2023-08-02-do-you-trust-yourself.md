@@ -27,20 +27,21 @@ I don't know when I'll go back to full-time work or how I'm going to make money,
 
 The idea of trusting myself is relevant to me because, as someone that's self-employed, I'm in complete control of how I spend my time. And I've been meaning to use that time to create more. To write often. To practice design. To sketch again. These are things I loved to do as a kid but I lost touch with over the years.
 
-Meanwhile, I've sat on the sidelines and not tried to do things I genuinely enjoy because deep down I feel like they'd be a waste of time. I want to challenge myself to break that line of thinking, so I'm setting a challenge for the next week to play more. That's it. To use a digital or physical canvas as my playground for creative exploration and self-expression.
+Lately, I've mostly tried to avoid doing creative things I genuinely enjoy because deep down I feel like doing them would be a waste of time. I want to challenge myself to break that line of thinking, so I'm setting a challenge for myself over the coming week to play more. That's it. To use a digital or physical canvas as my playground for creative exploration and self-expression.
 
-Each day, I'll challenge to play by:
-- Writing (and publishing 1 essay no matter how small)
-- Practicing design
+Each day, I'll challenge myself to play by:
+- Writing thoughts
+- Learning about design
+- Using Figma
 - Sketching
-- Any other playful creative thing I can think of
+- Doing any other playful, creative thing I can think of
 
 These things might not make me any money (at least not right away).
 
 I don't know what doing these things will lead to in the long run.
 
-And I recognize that I might feel a natural pull to play more on some days vs. others.
+And I recognize that on some days, I might not feel a natural pull to play at all.
 
-But either way...
+But regardless of what happens...
 
 **I trust myself.**
