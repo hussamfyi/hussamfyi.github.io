@@ -3,17 +3,17 @@ layout: post
 title: Do you trust yourself?
 ---
 
-On Saturday July 29th, a battle for the ages took place in the UFC for the BMF title: [Dustin Poirier](https://en.wikipedia.org/wiki/Dustin_Poirier) vs. [Justin Gaethje](https://en.wikipedia.org/wiki/Justin_Gaethje) II.
+On Saturday July 29th, a battle for the ages took place on the [UFC 291](https://www.ufc.com/event/ufc-291) card for the BMF title: [Dustin Poirier](https://en.wikipedia.org/wiki/Dustin_Poirier) vs. [Justin Gaethje](https://en.wikipedia.org/wiki/Justin_Gaethje) II.
 
-If you're a true fan of the sport, you weren't going to miss it. Legacy was on the line. Not to mention, both fighters have a reputation for putting on exciting, high-caliber fights, with everything a combat sports fan could ask for; devastating power, precise technicality and a pure display of grit.
+If you're a true fan of the sport, you weren't going to miss it. It was a true legacy fight. Not to mention, both fighters have a reputation for putting on exciting, high-caliber fights. It promised everything a combat sports fan could ask for; devastating power, precise technicality and a pure display of grit.
 
 In the weeks leading up to the fight, I watched several media interviews of both fighters, because I wanted to understand their mindset, motivations and fears. One particular [conversation](https://youtu.be/PNPYvBc4CKA) between Dustin Poirier and UFC Commentator John Anik caught my attention. Dustin was [asked a question](https://youtu.be/PNPYvBc4CKA?t=138) about resilience, and how he had been able to consistently beat dangerous, fast-charging opponents (like Justin Gaethje) throughout his career.
 
-Here's Dustin's wonderful response:
+Here's how Dustin responded:
 
 > I know going in there that it's a fight. And bad things are probably going to happen...**I trust myself to find a way to persevere and find an opening, and just stay in there...I don't know...I just trust myself.**
 
-Unfortunately, Dustin didn't win the fight on Saturday. But the loss doesn't take away from the power of those words. Whether in defeat, or when we're taking the road less traveled, we can choose to trust ourselves to figure things out.
+While Dustin didn't win the fight on Saturday, the loss doesn't take away from the power of those words. Whether in defeat, or when taking the road less traveled, we can always choose to trust ourselves to figure things out.
 
 ## Trust yourself
 
