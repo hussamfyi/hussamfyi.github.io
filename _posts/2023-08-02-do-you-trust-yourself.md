@@ -37,6 +37,6 @@ Each day, I'm going to play by:
 
 These things might not make me any money (at least not right away).
 
-And I don't know what it will lead to in the long run but...
+And I don't know what they'll lead to in the long run but...
 
 **I trust myself.**
