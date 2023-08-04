@@ -21,6 +21,10 @@
   }
 }
 
+.copy-buttons {
+  margin-top: calc(.5 * var(--line-height));
+}
+
 .btn-default {
   background-color: var(--gray-200);
   border: 1px solid var(--gray-00);
