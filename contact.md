@@ -18,3 +18,13 @@ Email's the best way to get in touch with me:
 Happy to do a [virtual coffee](https://calendly.com/hussamfyi/virtual-coffee). I always enjoy a chance to talk shop with other product professionals or learn from people carving their own pathless path.
 
 I'm also active on [Twitter](https://twitter.com/hussamfyi) and [LinkedIn](https://www.linkedin.com/in/hussamfyi/).
+
+<script>
+
+// copy email to clipboard
+
+function copyEmailtoClipboard() {
+    navigator.clipboard.writeText((arguments[0]));
+}
+
+</script>
