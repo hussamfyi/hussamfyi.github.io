@@ -44,11 +44,14 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
-
   - title: About
     url: /about
+
+  - title: Work
+    url: /work
+
+  - title: Essays
+    url: /archive
 
   - title: Contact
     url: /contact
