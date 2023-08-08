@@ -9,9 +9,9 @@ I'm a product manager based in Toronto, but I'm taking a break from full-time wo
 
 I write about my personal and professional interests, and share ideas I’m still fleshing out.
 
-[Read my writing ↗](/writing)
+[Read my Blog ↗](/writing)
 
-I'd describe myself as a 0 → 1 product manager, a fancy way to say that I like to make apps grow _really_ fast by picking ambitious things to build.
+I'd describe myself as a 0 → 1 product manager, a fancy way of saying I like to make apps grow _really_ fast by building ambitious things.
 
 [View my Resume ↗](/resume.pdf)
 
