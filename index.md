@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Hi, I'm Hussam 👋
 ---
-
-# Hi, I'm Hussam 👋
 
 I’m a fan of product design and writing.
 [More about me →](/about)
