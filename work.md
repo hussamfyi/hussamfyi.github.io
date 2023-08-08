@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Portfolio
+title: What I do for work
 ---
 
-I'm a 0 → 1 growth product manager. I have a track record for driving step-function growth by making ambitious product bets and designing viral launch campaigns. See my accomplishments below.
+I'm a 0 → 1 growth product manager. In a nutshell: I make apps grow _really_ fast (by taking ambitious product bets and designing viral launch campaigns).
 
-[View my Resume →](https://hussam.fyi/resume.pdf)
+[See my Resume →](https://hussam.fyi/resume.pdf)
 
 <hr>
 
@@ -25,7 +25,9 @@ I was the 1st product manager and 9th hire at [Shakepay](https://shakepay.com) -
 
 I was also a Founder in Residence at [Entrepreneur First](https://www.google.com/search?q=entrepreneurfirst&sourceid=chrome&ie=UTF-8)'s (EF) Fall 2022 Toronto cohort, where I was handpicked from 10,000+ applicants for their pre-seed accelerator program. Things didn't work out, but I learned a lot about myself in the process.
 
-### Accomplishments:
+<hr>
+
+### Things I'm proud of:
 
 * Launched the [Shakepay Card](https://shakepay.com/card) creating 120k cardholders in < 6 months
 * Designed the [Shakepay Card waitlist](https://blog.shakepay.com/introducing-the-shakepay-card/) capturing 180k waitlisters and growing payments volume by 900% (We also out-trended the Queen of England on Twitter on her own birthday!)
