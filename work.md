@@ -12,7 +12,7 @@ I'm a 0 → 1 product manager with a knack for designing products and go-to-mark
 Consulting pre-seed and Series A startups on product growth while writing and sharpening my product design skills. 
 
 <p class="message">
-I'm open to product roles at early-stage fintech or SaaS startups with a fiery mission. If you're hiring, [please reach out →](mailto:h@zaghal.ca)
+I'm open to product roles at early-stage fintech or SaaS startups with a fiery mission. If you're hiring, please reach out!
 </p>
 
 ## Previously
