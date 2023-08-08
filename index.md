@@ -3,14 +3,17 @@ layout: page
 title: Hi, I'm Hussam 👋
 ---
 
-I’m a fan of product design and writing.
-[More about me →](/about)
+I'm exploring product design and writing.
+
+[More about me ↗](/about)
 
 I post frequent notes about my personal and professional interests, or ideas I’m still fleshing out.
-[Read my blog →](blog)
+
+[Read my blog ↗](blog)
 
 I work as a product manager and growth consultant, a fancy way to say that I make apps grow fast by picking the right things to build.
-[View my work →](/work)
+
+[View my work ↗](/work)
 
 <hr>
 
