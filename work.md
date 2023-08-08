@@ -21,7 +21,7 @@ I'm open to product roles at early-stage fintech or SaaS startups with a fiery m
 
 ## Previously
 
-I was the 1st product manager and 9th hire at [Shakepay](https://shakepay.com) - Canada’s largest bitcoin neobank that raised a $35 million Series A. At Shakepay, I led the growth team, and designed, built and launched game-changing consumer fintech products such as the [Shakepay Visa card](https://shakepay.com/card), [peer-to-peer payments](https://decrypt.co/44519/bitcoin-app-shakepay-p2p-payments-canada-cashapp) and [ShakeSquads](https://blog.shakepay.com/stack-sats-with-your-friends/) (social cashback) and more.
+I was the 1st product manager and 9th hire at [Shakepay](https://shakepay.com) - Canada’s largest bitcoin neobank that raised a $35 million Series A. At Shakepay, I led the growth team, and designed, built and launched the [Shakepay Visa card](https://shakepay.com/card), [peer-to-peer payments](https://decrypt.co/44519/bitcoin-app-shakepay-p2p-payments-canada-cashapp), [ShakeSquads](https://blog.shakepay.com/stack-sats-with-your-friends/) (social cashback) and more.
 
 I was also a Founder in Residence at [Entrepreneur First](https://www.google.com/search?q=entrepreneurfirst&sourceid=chrome&ie=UTF-8)'s (EF) Fall 2022 Toronto cohort, where I was handpicked from 10,000+ applicants for their pre-seed accelerator program. Things didn't work out, but I learned a lot about myself in the process.
 
