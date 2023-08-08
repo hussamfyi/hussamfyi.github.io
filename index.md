@@ -3,17 +3,17 @@ layout: page
 title: Hi, I'm Hussam 👋
 ---
 
-I'm exploring product design and writing.
+I'm a product manager based in Toronto, but I'm taking a break from full-time work to create things on the Internet.
 
-[More about me ↗](/about)
+[What I'm doing now ↗](/work)
 
-I post frequent notes about my personal and professional interests, or ideas I’m still fleshing out.
+I write about my personal and professional interests, and share ideas I’m still fleshing out.
 
-[Read my blog ↗](blog)
+[Read my writing ↗](blog)
 
-I work as a product manager and growth consultant, a fancy way to say that I make apps grow fast by picking the right things to build.
+I'd describe myself as a 0 → 1 product manager, a fancy way to say that I like to make apps grow _really_ fast by picking ambitious things to build.
 
-[View my work ↗](/work)
+[View my Resume ↗](https://hussam.fyi/resume.pdf)
 
 <hr>
 
