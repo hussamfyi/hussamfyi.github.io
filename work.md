@@ -7,7 +7,7 @@ I'm a 0 → 1 product manager.
 
 In a nutshell: I make apps grow _really_ fast (by taking ambitious product bets and designing viral launch campaigns).
 
-[See my Resume →](https://hussam.fyi/resume.pdf)
+[↗ See my Resume](https://hussam.fyi/resume.pdf)
 
 <hr>
 
