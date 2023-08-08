@@ -7,12 +7,12 @@ Last year, I took a Twitter audience building course called [Ship 30 for 30](htt
 
 The course offered a ton of useful writing frameworks to help with generating (and ‘validating’) content ideas, writing catchy hooks and structuring content to keep readers engaged.
 
-As I continued to apply these frameworks, I noticed over time that my writing lacked personality.
+As I continued applying these frameworks, I noticed something interesting: my writing lacked personality.
 
-My work began to read more like a sales letter than an authentic expression of who I am. I think it's because I felt the 'pressure to perform' whenever I wrote anything.
+It's like I was trying to write sales letters instead of honestly expressing myself. I felt this 'pressure to perform' whenever I wrote anything.
 
-Over time, I've developed more of a nuanced take on writing. I think if you're trying to build an audience, writing frameworks can work, but writing must be appreciated as an artform - it's part-science, part-magic. And the magic, you can't _really_ teach.
+I think if you're trying to build an audience, writing frameworks are useful. Beyond that, I'm not so sure. Writing is an artform - it's part-science, part-magic. And the magic, you can't _really_ teach.
 
-The medium also matters. I stuck to writing _only_ on Twitter or LinkedIn for a long time because I wanted to building an audience - so I kept following the 'audience-building' recipe.
+The medium also matters. I used to only write on Twitter or LinkedIn because I wanted to build an audience so I had to follow that recipe.
 
-This blog is a chance to challenge that by giving myself a space to write authentically and discover my writing voice.
+This blog is an opportunity for me to challenge that approach to writing. It's my digital home, where I can write about whatever I want.
