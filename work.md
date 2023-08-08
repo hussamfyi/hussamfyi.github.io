@@ -3,9 +3,11 @@ layout: page
 title: Portfolio
 ---
 
-I'm a 0 → 1 product manager with a knack for designing products and go-to-market strategies that make apps grow _really_ fast.
+I'm a 0 → 1 growth product manager. I aim to drive step function growth by making ambitious product bets and designing viral go-to-market strategies.
 
 [View my Resume →](https://hussam.fyi/resume.pdf)
+
+<hr>
 
 ## What I'm doing now
 
@@ -14,6 +16,8 @@ Consulting pre-seed and Series A startups on product growth while writing and sh
 <p class="message">
 I'm open to product roles at early-stage fintech or SaaS startups with a fiery mission. If you're hiring, please reach out!
 </p>
+
+<hr>
 
 ## Previously
 
