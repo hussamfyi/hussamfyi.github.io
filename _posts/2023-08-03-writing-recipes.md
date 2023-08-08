@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Writing recipes
-excerpt: This is a test description of the post
+title: Audience building vs. writing
 ---
 
 Last year, I took a Twitter audience building course called [Ship 30 for 30](https://ship30for30.com/). It's a cohort-based course aimed at getting beginner writers to create 30 pieces of published writing over 30 days.
