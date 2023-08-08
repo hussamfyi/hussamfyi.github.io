@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Work
+title:
 ---
 
-I'm a 0 → 1 product manager and growth practitioner. I love being part of early-stage teams with a strong mission, and have a strong track record of successfully taking new products to market.
+# What I'm doing now
+
+I'm a 0 → 1 product manager and growth designer. I love being part of early-stage teams with a strong mission, and have a strong track record of successfully taking new products to market.
 
 [View my Resume →](https://hussam.fyi/resume.pdf)
 
