@@ -46,3 +46,13 @@ I work as a product manager and growth consultant, a fancy way to say that I mak
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+{% for yearMonth in postsByYearMonth %}
+  <h2>{{ yearMonth.name }}</h2>
+  <ul>
+    {% for post in yearMonth.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
