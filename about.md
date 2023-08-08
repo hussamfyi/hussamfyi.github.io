@@ -3,15 +3,17 @@ layout: page
 title: Hi, I'm Hussam 👋
 ---
 
-This page is a collection of (mostly) non-work thoughts about me. If you're looking for a list of my professional accomplishments, head over to my [portfolio](https://hussam.fyi/work/).
+This page is a collection of (mostly) non-work thoughts about me. If you're looking for a list of my professional accomplishments, head over to my [work](https://hussam.fyi/work/).
 
 <hr>
 
 ## About me
 
-I'm Hussam, and I'm based in Toronto. I grew up in Qatar to Syrian parents, and I immigrated to Canada in 2010. I'm bilingual in both English and Arabic, and I'm proud of my heritage.
+I'm Hussam, a product manager based in Toronto.
 
-At heart, I'm a designer and a creative, but over the years I've lost touch with that side of me. That's one of the main reasons I built this website. My goal is to use it as a digital playground of sorts; a safe, open space to document my creative journey, and share my work, whether through writing, learning design or 
+I'm a [third culture kid](https://en.wikipedia.org/wiki/Third_culture_kid): I was born to Syrian parents, raised in Qatar, and I immigrated to Canada in 2010.
+
+I love design. When I was in my teens I wanted to become an industrial designer but I chose to pursue an engineering degree instead. After graduating, I yearned to become a designer, but I never took the plunge. So I built this site. I want to use it as a digital playground of sorts; a safe, open space to document my creative journey to learn design, write more, and share the fruits of my creative pursuits.
 
 I'd describe myself as a Generalist/[Wildcard](https://merki.ca/blog/what-is-a-wildcard-person). Professionally, I like wearing multiple hats, but I sort of found my footing as a product manager, even though I'm proud of the many weird, confusing titles I've had throughout my career that didn't describe what I _actually_ did at the time e.g. Special Projects Manager, Growth Lead or Senior Associate.
 
