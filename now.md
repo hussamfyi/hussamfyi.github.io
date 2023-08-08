@@ -3,19 +3,25 @@ layout: page
 title: What I'm doing now
 ---
 
-Creating on the Internet while consulting for pre-seed and Series A startups on product growth.
+## Creating things on the Internet
+
+I'm spending my time writing and publshing my work on my blog and occasionally Twitter or LinkedIn. I'm also self-learning product design (a lifelong passion). To pay the bills, I consult pre-seed and Series A fintech startups on product growth.
 
 <p class="message">
-I'm open to product roles at early-stage fintech or SaaS startups with a fiery mission. If you're hiring, please reach out!
+I'm open to exploring product roles at early-stage fintech or SaaS startups with a killer team and fiery mission. If you're hiring, please reach out!
 </p>
 
 <hr>
 
-## Previously
+# Previously
 
-I was the 1st product/growth hire at [Shakepay](https://shakepay.com), Canada’s largest bitcoin neobank ($35M Series A), where I led the growth team, and worked on the [Shakepay Visa card](https://shakepay.com/card), [peer-to-peer payments](https://decrypt.co/44519/bitcoin-app-shakepay-p2p-payments-canada-cashapp), [ShakeSquads](https://blog.shakepay.com/stack-sats-with-your-friends/) and more.
+## Ushering in the Bitcoin Golden Age at [Shakepay](https://shakepay.com)
 
-I'm also a former Founder in Residence at [Entrepreneur First](https://www.google.com/search?q=entrepreneurfirst&sourceid=chrome&ie=UTF-8) (EF) as part of their Fall 2022 Toronto cohort.
+I was the 1st product/growth hire at Shakepay, Canada’s largest bitcoin neobank ($35M Series A), where I led the growth team, and worked on the [Shakepay Visa card](https://shakepay.com/card), [peer-to-peer payments](https://decrypt.co/44519/bitcoin-app-shakepay-p2p-payments-canada-cashapp), [ShakeSquads](https://blog.shakepay.com/stack-sats-with-your-friends/) and more.
+
+## Finding a co-Founder to build a startup
+
+I'm a former Founder in Residence at [Entrepreneur First](https://www.google.com/search?q=entrepreneurfirst&sourceid=chrome&ie=UTF-8) (EF) as part of their Fall 2022 Toronto cohort.
 
 <hr>
 
