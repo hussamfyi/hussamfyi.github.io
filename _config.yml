@@ -47,11 +47,8 @@ nav:
   - title: About
     url: /about
 
-  - title: Work
-    url: /work
+  - title: Now
+    url: /now
 
-  - title: Blog
-    url: /blog
-
-  - title: Contact
-    url: /contact
+  - title: Writing
+    url: /writing
