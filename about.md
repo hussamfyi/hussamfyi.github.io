@@ -14,7 +14,7 @@ A few links you might find interesting:
 * [My story ↗](/my-story)
 * [View my resume ↗](/resume.pdf)
 
-## Find me online
+## Contact me
 
 [Email](mailto:h@zaghal.ca) is the best way to reach me, but you can also find me on:
 
