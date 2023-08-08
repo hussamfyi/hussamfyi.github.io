@@ -1,19 +1,25 @@
 ---
 layout: page
-title:
+title: Portfolio
 ---
 
-# What I'm doing now
-
-I'm a 0 → 1 product manager and growth designer. I love being part of early-stage teams with a strong mission, and have a strong track record of successfully taking new products to market.
+I'm a 0 → 1 product manager with a knack for designing products and go-to-market strategies that make apps grow _really_ fast.
 
 [View my Resume →](https://hussam.fyi/resume.pdf)
 
-Currently, I'm consulting pre-seed and Series A startups on product and growth while sharpening my writing and product design skills. 
+## What I'm doing now
 
-Most recently, I was the 1st product manager and 9th hire at [Shakepay](https://shakepay.com), Canada’s largest bitcoin neobank that went on to raise a $35 million Series A. While there, I got the chance to design, build and launch gamechanging consumer fintech products like the [Shakepay prepaid Visa card](https://shakepay.com/card), [peer-to-peer payments](https://decrypt.co/44519/bitcoin-app-shakepay-p2p-payments-canada-cashapp) and more.
+Consulting pre-seed and Series A startups on product growth while writing and sharpening my product design skills. 
 
-I was also a Founder in Residence at [Entrepreneur First](https://www.google.com/search?q=entrepreneurfirst&sourceid=chrome&ie=UTF-8)'s (EF) Fall 2022 Toronto cohort, where I was handpicked from 10,000+ applicants to join their pre-idea/pre-team accelerator program to find a co-founder and build a startup. It didn't work out, but it was still worth it!
+<p class="message">
+I'm open to product roles at early-stage teams (<20) in fintech or SaaS with a fiery mission. If you're hiring, please reach out!
+</p>
+
+## Previously
+
+I was the 1st product manager and 9th hire at [Shakepay](https://shakepay.com) - Canada’s largest bitcoin neobank that went on to raise a $35 million Series A. While there, I got the chance to design, build and launch game-changing consumer fintech products like the [Shakepay prepaid Visa card](https://shakepay.com/card), [peer-to-peer payments](https://decrypt.co/44519/bitcoin-app-shakepay-p2p-payments-canada-cashapp) and more.
+
+I was also a Founder in Residence at [Entrepreneur First](https://www.google.com/search?q=entrepreneurfirst&sourceid=chrome&ie=UTF-8)'s (EF) Fall 2022 Toronto cohort, where I was handpicked from 10,000+ applicants for their pre-seed accelerator program. Things didn't work out, but I learned a lot about myself in the process.
 
 ### Some things I'm proud of:
 
