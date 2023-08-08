@@ -5,15 +5,15 @@ title: Hi, I'm Hussam 👋
 
 I'm a product manager based in Toronto, but I'm taking a break from full-time work to create things on the Internet.
 
-[What I'm doing now ↗](/work)
+[What I'm doing now ↗](/now)
 
 I write about my personal and professional interests, and share ideas I’m still fleshing out.
 
-[Read my writing ↗](blog)
+[Read my writing ↗](/writing)
 
 I'd describe myself as a 0 → 1 product manager, a fancy way to say that I like to make apps grow _really_ fast by picking ambitious things to build.
 
-[View my Resume ↗](https://hussam.fyi/resume.pdf)
+[View my Resume ↗](/resume.pdf)
 
 <hr>
 
