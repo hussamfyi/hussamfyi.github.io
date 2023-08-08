@@ -17,7 +17,7 @@ I love design. When I was in my teens, I wanted to become an industrial designer
 
 I built this site to be a digital playground to document my product design journey. It's an open space where I can share what I learn on design and practice my writing.
 
-Professionally, I [work](hussam.fyi/work) in product, but I'd also describe myself as a generalist/[wildcard](https://merki.ca/blog/what-is-a-wildcard-person). I like to wear multiple hats, and I'm proud of the many ambiguous titles I've had throughout my career - like 'Special Projects Manager' or 'Growth Lead' - that don't describe what I _actually_ did in those roles.
+Professionally, I [work](/work) in product, but I'd also describe myself as a generalist/[wildcard](https://merki.ca/blog/what-is-a-wildcard-person). I like to wear multiple hats, and I'm proud of the many ambiguous titles I've had throughout my career - like 'Special Projects Manager' or 'Growth Lead' - that don't describe what I _actually_ did in those roles.
 
 I train Muay Thai 3-4x per week. It's changed my life. I deeply value martial arts as an outlet to confront [pain](https://www.youtube.com/watch?v=cQ4vgq47Cco&t=427s), manage dangerous situations, and pursue mastery. At some point in the next year, I plan to have an amateur fight. 
 
