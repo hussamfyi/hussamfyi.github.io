@@ -1,17 +1,7 @@
 ---
 layout: page
-title: What I do
+title: What I'm doing now
 ---
-
-I'm a 0 → 1 product manager.
-
-In a nutshell: I like to take ambitious product bets and design launch campaigns to make them go viral.
-
-[See my Resume ↗](https://hussam.fyi/resume.pdf)
-
-<hr>
-
-## Now
 
 Creating on the Internet while consulting for pre-seed and Series A startups on product growth.
 
