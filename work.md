@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Work
+title: What I do
 ---
 
 I'm a 0 → 1 product manager.
 
-In a nutshell: I make apps grow _really_ fast (by taking ambitious product bets and designing viral launch campaigns).
+In a nutshell: I like to take ambitious product bets then figure out how to design and launch them to go viral.
 
-[↗ See my Resume](https://hussam.fyi/resume.pdf)
+[See my Resume ↗](https://hussam.fyi/resume.pdf)
 
 <hr>
 
-## What I'm doing now
+## Now
 
-Consulting pre-seed and Series A startups on product growth while writing and sharpening my product design skills.
+Creating on the Internet while consulting for pre-seed and Series A startups on product growth.
 
 <p class="message">
 I'm open to product roles at early-stage fintech or SaaS startups with a fiery mission. If you're hiring, please reach out!
