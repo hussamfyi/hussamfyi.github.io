@@ -5,7 +5,7 @@ title: What I do
 
 I'm a 0 → 1 product manager.
 
-In a nutshell: I like to take ambitious product bets then figure out how to design and launch them to go viral.
+In a nutshell: I like to take ambitious product bets and design launch campaigns to them to go viral.
 
 [See my Resume ↗](https://hussam.fyi/resume.pdf)
 
