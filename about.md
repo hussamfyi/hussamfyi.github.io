@@ -9,8 +9,6 @@ This page is a collection of (mostly) non-work thoughts about me. If you're look
 
 ## About me
 
-<img style="float: right;" alt="" src="/assets/profile.jpg" />
-<div style="clear: right">
 I'm Hussam, a product manager based in Toronto.
 
 I'm a [third culture kid](https://en.wikipedia.org/wiki/Third_culture_kid): I was born to Syrian parents, raised in Qatar, and I immigrated to Canada in 2010.
@@ -24,5 +22,3 @@ Professionally, I [work](hussam.fyi/work) in product, but I'd also describe myse
 I train Muay Thai 3-4x per week. It's changed my life. I deeply value martial arts as an outlet to confront [pain](https://www.youtube.com/watch?v=cQ4vgq47Cco&t=427s), manage dangerous situations, and pursue mastery. At some point in the next year, I plan to have an amateur fight. 
 
 Music is an essential aspect of my life. I've been playing the drums since I was 13, and absolutely love drumming along to progressive metal music - especially bands like Dream Theater, Porcupine Tree and Mastodon. I also love listening to hip-hop, psychedelic rock, reggae, soul and jazz.
-</div>
-
