@@ -3,9 +3,11 @@ layout: page
 title: Writing
 ---
 
-<h2 class="page.title">Latest</h2>
+<p>I post frequent notes about something that caught my attention or ideas I'm still fleshing out. Occasionally, I'll write longer posts about my personal and professional interests.</p>
 
 <hr>
+
+<h2 class=page-title">Tags</h2>
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -18,25 +20,17 @@ title: Writing
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-    {{ post.content }}
+    {{ post.excerpt }}
+    {% if post.excerpt != post.content %}
+    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+    {% endif %}
   </article>
   {% endfor %}
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-
 <hr>
+
+<h2 class=page-title">All Posts</h2>
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
