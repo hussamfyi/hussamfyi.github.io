@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do you trust yourself?
+tags: habits ideas writing creativity
 ---
 
 On Saturday July 29th, a battle for the ages took place on the [UFC 291](https://www.ufc.com/event/ufc-291) card for the BMF title: [Dustin Poirier](https://en.wikipedia.org/wiki/Dustin_Poirier) vs. [Justin Gaethje](https://en.wikipedia.org/wiki/Justin_Gaethje) II.
