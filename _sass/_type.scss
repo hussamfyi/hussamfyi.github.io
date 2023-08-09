@@ -3,7 +3,7 @@
 // Headings, body text, lists, and other misc typographic elements.
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  // margin-bottom: .5rem; 2023-08-09 Changed global margin-bottom settings for all headers
   font-weight: 500;
   line-height: 1.25;
   letter-spacing: -0.02em;
@@ -11,21 +11,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  margin-bottom: 1.5rem;
   font-size: 2rem;
 }
 
 h2 {
   margin-top: 1rem;
+  margin-bottom: .5rem;
   font-size: 1.25rem;
 }
 
 h3 {
   margin-top: 1.5rem;
+  margin-bottom: .5rem;
   font-size: 1.10rem;
 }
 
 h4, h5, h6 {
   margin-top: 1rem;
+  margin-bottom: .5rem;
   font-size: 1rem;
 }
 
