@@ -26,9 +26,6 @@ I'm currently exploring product roles at early-stage fintech or SaaS startups wi
 
 I was the 1st product/growth hire at Shakepay, Canada’s largest bitcoin neobank that went on to raise a $35M Series A in 2022. Some things I'm exceptionally proud of:
 
-
-where I led the growth team, and worked on the [Shakepay Visa card](https://shakepay.com/card), [peer-to-peer payments](https://decrypt.co/44519/bitcoin-app-shakepay-p2p-payments-canada-cashapp),  and more.
-
 * Launching the [Shakepay Card](https://shakepay.com/card) which captured 120,000 cardholders in < 6 months
 * Designing the [Shakepay Card go-to-market strategy](https://blog.shakepay.com/introducing-the-shakepay-card/) which grew to 180,000 waitlisters and ballooned payments volume by 900% - we also out-trended the Queen of England on Twitter on her own birthday!.
 * Owning the design, development and launch of social card features like [ShakeSquads](https://blog.shakepay.com/stack-sats-with-your-friends/) and [Shakepaid](https://twitter.com/search?q=%23shakepaid) which boosted retention by 30% and core card metrics such as total card transaction volume (28%), average spend per user (512%) and average transaction count (1,000%).
