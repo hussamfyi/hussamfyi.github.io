@@ -19,9 +19,6 @@ title: Writing
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     {{ post.content }}
-    {% if post.excerpt != post.content %}
-    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-    {% endif %}
   </article>
   {% endfor %}
 </div>
