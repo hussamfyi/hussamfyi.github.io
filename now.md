@@ -3,13 +3,20 @@ layout: page
 title: What I'm doing now
 ---
 
-## Creating things on the Internet
+## Building [digital leverage](https://visualizevalue.com/blogs/feed/how-to-build-leverage) by creating things on the Internet
 
-I'm spending my time writing and publshing my work on my blog and occasionally Twitter or LinkedIn. I'm also self-learning product design (a lifelong passion). To pay the bills, I consult pre-seed and Series A fintech startups on product growth.
+Right now, half my time is spent consulting pre-seed and Series A fintech startups on product growth. It's how I pay my bills. When I'm not consulting I'm:
+
+* Learning how to design digital products
+* Publishing my writing [here](/writing) or on [Twitter](https://www.twitter.com/hussamfyi) or [LinkedIn](https://www.linkedin.com/in/hussamfyi)
+* Improving this website
+* Exploring other creative ideas/outlets
 
 <p class="message">
-I'm open to exploring product roles at early-stage fintech or SaaS startups with a killer team and fiery mission. If you're hiring, please reach out!
+I'm currently exploring product roles at early-stage fintech or SaaS startups with a killer team and fiery mission. If you're hiring, please reach out!
 </p>
+
+[View my resume ↗](/resume.pdf)
 
 <hr>
 
@@ -17,18 +24,12 @@ I'm open to exploring product roles at early-stage fintech or SaaS startups with
 
 ## Ushering in the Bitcoin Golden Age at [Shakepay](https://shakepay.com)
 
-I was the 1st product/growth hire at Shakepay, Canada’s largest bitcoin neobank ($35M Series A), where I led the growth team, and worked on the [Shakepay Visa card](https://shakepay.com/card), [peer-to-peer payments](https://decrypt.co/44519/bitcoin-app-shakepay-p2p-payments-canada-cashapp), [ShakeSquads](https://blog.shakepay.com/stack-sats-with-your-friends/) and more.
+I was the 1st product/growth hire at Shakepay, Canada’s largest bitcoin neobank that went on to raise a $35M Series A in 2022. Some things I'm exceptionally proud of:
 
-## Finding a co-Founder to build a startup
 
-I'm a former Founder in Residence at [Entrepreneur First](https://www.google.com/search?q=entrepreneurfirst&sourceid=chrome&ie=UTF-8) (EF) as part of their Fall 2022 Toronto cohort.
+where I led the growth team, and worked on the [Shakepay Visa card](https://shakepay.com/card), [peer-to-peer payments](https://decrypt.co/44519/bitcoin-app-shakepay-p2p-payments-canada-cashapp),  and more.
 
-<hr>
-
-### Accomplishments:
-
-* Launched the [Shakepay Card](https://shakepay.com/card) creating 120k cardholders in < 6 months
-* Designed the [Shakepay Card waitlist](https://blog.shakepay.com/introducing-the-shakepay-card/) capturing 180k waitlisters and growing payments volume by 900% (We also out-trended the Queen of England on Twitter on her own birthday!)
-* Joined EF's rigorous 12-week startup bootcamp and pitched weekly to panels of leading VCs
-* Co-led fundraising with CEO at [Lake Finance](http://lake.finance/)/[Buy With Impact](https://buywithimpact.com/) leading to acquihire by RBC Ventures
-* Published 50+ essays on product and startups on Twitter and LinkedIn
+* Launching the [Shakepay Card](https://shakepay.com/card) which captured 120,000 cardholders in < 6 months
+* Designing the [Shakepay Card go-to-market strategy](https://blog.shakepay.com/introducing-the-shakepay-card/) which grew to 180,000 waitlisters and ballooned payments volume by 900% - we also out-trended the Queen of England on Twitter on her own birthday!.
+* Owning the design, development and launch of social card features like [ShakeSquads](https://blog.shakepay.com/stack-sats-with-your-friends/) and [Shakepaid](https://twitter.com/search?q=%23shakepaid) which boosted retention by 30% and core card metrics such as total card transaction volume (28%), average spend per user (512%) and average transaction count (1,000%).
+* Leading a Growth team of 4 to drive $840 million in total exchange volume and increasing MAUs by 400% to 150,000.
