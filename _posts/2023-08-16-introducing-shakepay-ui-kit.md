@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Shakepay UI Kit
+title: Introducing: Shakepay UI Kit
 tags: design figma bitcoin
 ---
 
-![shakepay-ui-kit](/_assets/cover.png)
+![shakepay-ui-kit](/assets/cover.png)
 
 I decided to build a Shakepay UI Kit on Figma, which I also published to the Figma Community.
 
