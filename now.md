@@ -9,8 +9,11 @@ Half my time is spent consulting pre-seed and Series A fintech startups on produ
 
 In my spare time, I am:
 
-* Learning the product design craft
+* Building [Shakepay UI Kit](https://www.figma.com/community/file/1271968504374598505/Shakepay---UI-Kit)
+* Learning product design and Figma
 * Writing [here](/writing), on [Twitter](https://www.twitter.com/hussamfyi) and [LinkedIn](https://www.linkedin.com/in/hussamfyi)
+
+<hr>
 
 <p class="message">
 I'm open to product roles at growth-stage fintech or SaaS startups with a killer team and fiery mission. If you're hiring, please reach out!
