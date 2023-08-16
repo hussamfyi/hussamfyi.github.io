@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing: Shakepay UI Kit
+title: Introducing Shakepay UI Kit
 tags: design figma bitcoin
 ---
 
