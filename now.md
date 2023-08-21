@@ -5,13 +5,13 @@ title: What I'm doing now
 
 ## Building [digital leverage](https://visualizevalue.com/blogs/feed/how-to-build-leverage) by creating things on the Internet
 
-Half my time is spent consulting pre-seed and Series A fintech startups on product growth. It's how I pay the bills!
-
-In my spare time, I am:
+Currently, I am:
 
 * Building [Shakepay UI Kit](https://www.figma.com/community/file/1271968504374598505/Shakepay---UI-Kit)
 * Learning product design and Figma
 * Writing [here](/writing), on [Twitter](https://www.twitter.com/hussamfyi) and [LinkedIn](https://www.linkedin.com/in/hussamfyi)
+
+I also spend half of my time consulting pre-seed to Series A fintech startups on product growth. It's how I pay the bills.
 
 <hr>
 
