@@ -7,29 +7,6 @@ title: Writing
 
 <hr>
 
-<h2 class=page-title">Tags</h2>
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h2 class="post-title">
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    {{ post.excerpt }}
-    {% if post.excerpt != post.content %}
-    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-    {% endif %}
-  </article>
-  {% endfor %}
-</div>
-
-<hr>
-
 <h2 class=page-title">All Posts</h2>
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
