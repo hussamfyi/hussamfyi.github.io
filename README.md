@@ -4,8 +4,6 @@ I'm a product manager based in Toronto.
 
 This is the github repo for my personal website which you can find [here](https://hussam.fyi/). I built this site using a [Jekyll](http://jekyllrb.com) theme called [Poole](https://demo.getpoole.com).
 
------
-
 ## About me
 
 A few links you might find interesting:
