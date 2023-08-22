@@ -84,25 +84,25 @@ I thought [this article](https://www.atlassian.com/agile/project-management/user
 “As a [persona], I [want to], [so that].”
 </p>
 
-For the sake of simplicity, I’ll use power users, casual users, and more broadly ‘users’ or stories that apply to both personas.
+For the sake of simplicity, I’ll use power users, casual users, and more broadly ‘users’ for stories that apply to both personas.
 
-1. As a power user, I want to earn as much bitcoin rewards as possible, so that I can continue to build my wealth while I pay for everyday things.
-2. As a power user, I want to find my card information so I can use it earn bitcoin off of my online purchases too.
-3. As a user, I want add funds to my Shakepay account so I can continue to make purchases with my card uninterrupted.
-4. As a user, I want to check the details of a recent purchase I made so I can confirm whether I made the transaction or not.
+Here are some examples as a starting point:
+
+1. As a power user, I want to find my card information so I can use it earn bitcoin off of my online purchases too.
+2. As a casual user, I want to know what rewards I can expect to earn on my purchases so that I can figure out if it’s worth using it instead of my bank credit card.
+3. As a user, I want to see the transactions I've made with my card so I can get an overview of my spending habits.
 5. As a user, I want to dispute a transaction I don’t recognize so that I can get money back that I don’t remember spending.
-6. As a power user, I want to earn bitcoin on a large purchase, so that I don’t miss out on some potentially huge rewards.
-7. As a casual user, I want to know what rewards I can expect to earn on for each purchase I make with my Shakepay Card, so that I can figure out if it’s worth it instead of using a credit card with my bank.
-
-These are some initial examples as a starting point, but I’m sure I can come up with a few more.
 
 ## A list of guiding principles for a redesign
 
 When building products, I've found it useful to set guiding principles (or themes) for design exploration. Here are 4 principles that make sense to me:
 
-1. **⚡️ Lightning-fast:** Keep core actions 1 tap away from the Card screen and display the most crucial information on the main screen.
-2. **🧱 Make it extensible:** Shakepay is a ‘rewards-driven’ app so the redesign should create room for new categories of rewards to be added—almost like lego blocks.
-3. **💬 Keep it conversational:** Again, keeping in mind the conversational tone of the Shakepay brand, all product copy should be simple, approachable and concise.
-4. **🫧 Less is more:** When in doubt, aim for a ‘less is more’ approach, and allow room for the design to breathe.
+**⚡️ Lightning-fast:** Keep core actions 1 tap away from the Card screen and display the most crucial information on the main screen.
 
-Next, I’ll incorporate some of the thinking from the guiding principles and user stories to sketch some initial concepts for a new screen which I’ll share in the next post.
+**🧱 Make it extensible:** Shakepay is a ‘rewards-driven’ app so the redesign should create room for new categories of rewards to be added—almost like lego blocks.
+
+**💬 Keep it conversational:** Again, keeping in mind the conversational tone of the Shakepay brand, all product copy should be simple, approachable and concise.
+
+**🫧 Less is more:** When in doubt, aim for a ‘less is more’ approach, and allow room for the design to breathe.
+
+Next, I’ll incorporate some of the thinking from the guiding principles and user stories to sketch initial concepts for a new screen. I’ll share these in the next post.
