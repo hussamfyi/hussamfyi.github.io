@@ -30,27 +30,27 @@ We were confident the Shakepay Card was going to be the easiest way for Canadian
 
 For example, if you look at the existing Shakepay Card screen, you’ll notice all of the actions can be separated into three broad categories:
 
-* **💳 Card settings**
-  * Add to/remove from Apple Wallet
-  * Read Cardholder Agreement
-  * Read Electronic Communication Consent Agreement
-  * View/hide Primary Account Number (PAN)
-  * Cancel/request new card
+**💳 Card settings**
+* Add to/remove from Apple Wallet
+* Read Cardholder Agreement
+* Read Electronic Communication Consent Agreement
+* View/hide Primary Account Number (PAN)
+* Cancel/request new card
 
-* **💵 Spend management**
-  * Add funds
-  * View dollar balance
-  * View all Card purchases (sorted by date)
-  * View individual transactions
-  * Dispute transactions
-  * View daily, monthly transaction limits
+**💵 Spend management**
+* Add funds
+* View dollar balance
+* View all Card purchases (sorted by date)
+* View individual transactions
+* Dispute transactions
+* View daily, monthly transaction limits
  
-* **🤑 Rewards**
-  * Toggle round-up bitcoin purchases on/off
-  * Create/manage ShakeSquad
-  * View ShakeSquad bitcoin rewards earned
-  * View current cash back reward + earned
-  * View total bitcoin rewards earned
+**🤑 Rewards**
+* Toggle round-up bitcoin purchases on/off
+* Create/manage ShakeSquad
+* View ShakeSquad bitcoin rewards earned
+* View current cash back reward + earned
+* View total bitcoin rewards earned
 
 I think this categorization gives us clues on how to establish an information architecture that’s simpler and more intuitive for users.
 
@@ -62,19 +62,19 @@ To me, personas can be a useful conceptual tool to build empathy with users, but
 
 Here’s my attempt at categorizing users into two key personas with some descriptors, based on the pre-existing context I have at Shakepay:
 
-* **🦊 Shakers (power users)**
-  * Strong belief in Bitcoin as a long-term store of value
-  * Bitcoin evangelist with above average Bitcoin knowledge
-  * Strong distrust in financial institutions
-  * Looks for more ways to accumulate more bitcoin
-  * Self-sovereign
+**🦊 Shakers (power users)**
+* Strong belief in Bitcoin as a long-term store of value
+* Bitcoin evangelist with above average Bitcoin knowledge
+* Strong distrust in financial institutions
+* Looks for more ways to accumulate more bitcoin
+* Self-sovereign
   
-* **😃 Casuals (casual users):**
-  * Interested in Bitcoin mostly as a speculative investment
-  * Bitcoin-curious and interested to learn more
-  * Average trust in financial institutions; likes their credit card perks
-  * Looks for convenient and easy-to-use products
-  * Stores bitcoin on Shakepay
+**😃 Casuals (casual users):**
+* Interested in Bitcoin mostly as a speculative investment
+* Bitcoin-curious and interested to learn more
+* Average trust in financial institutions; likes their credit card perks
+* Looks for convenient and easy-to-use products
+* Stores bitcoin on Shakepay
  
 ## What are the jobs to be done with the Shakepay Card?
  
