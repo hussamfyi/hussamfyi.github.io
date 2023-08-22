@@ -93,7 +93,7 @@ Here are some examples as a starting point:
 3. As a user, I want to see the transactions I've made with my card so I can get an overview of my spending habits.
 5. As a user, I want to dispute a transaction I don’t recognize so that I can get money back that I don’t remember spending.
 
-## A list of guiding principles for a redesign
+## Guiding principles for the redesign
 
 When building products, I've found it useful to set guiding principles (or themes) for design exploration. Here are 4 principles that make sense to me:
 
