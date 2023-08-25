@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Design practice - Redesigning the Shakepay Card screen Pt. 1
+title: Redesigning the Shakepay Card screen
 tags: design figma bitcoin
 ---
 
-After putting together the [Shakepay UI Kit](/2023/08/16/introducing-shakepay-ui-kit/), I thought it would be a fun design exercise to redesign the Shakepay Card screen.
+After putting together the [Shakepay UI Kit](/2023/08/16/introducing-shakepay-ui-kit/), I thought it would be a fun exercise to think through what a redesign the Shakepay Card screen might look like.
 
 ## Background context
 
