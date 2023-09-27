@@ -9,7 +9,7 @@ This is the github repo for my personal website which you can find [here](https:
 A few links you might find interesting:
 
 * [What I'm doing now ↗](/now)
-* [Writing ↗](/writing)
+* [Writing ↗](https://hussam.substack.com/)
 * [My story ↗](/my-story)
 * [View my resume ↗](https://docs.google.com/document/d/1s4q0tEAtpadEaY0zMhAkeSlFKDE0-kcKz2KalhN-7pI/edit?usp=sharing)
 
