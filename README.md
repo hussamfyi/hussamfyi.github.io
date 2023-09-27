@@ -11,7 +11,7 @@ A few links you might find interesting:
 * [What I'm doing now ↗](/now)
 * [Writing ↗](/writing)
 * [My story ↗](/my-story)
-* [View my resume ↗](/resume.pdf)
+* [View my resume ↗](https://docs.google.com/document/d/1s4q0tEAtpadEaY0zMhAkeSlFKDE0-kcKz2KalhN-7pI/edit?usp=sharing)
 
 ## Contact me
 
