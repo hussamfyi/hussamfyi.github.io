@@ -7,9 +7,8 @@ title: What I'm doing now
 
 Currently, I am:
 
-* Building [Shakepay UI Kit](https://www.figma.com/community/file/1271968504374598505/Shakepay---UI-Kit)
-* Learning product design and Figma
-* Writing [here](/writing), on [Twitter](https://www.twitter.com/hussamfyi) and [LinkedIn](https://www.linkedin.com/in/hussamfyi)
+* Self-teaching product design (and visual tools like Figma and Framer)
+* Writing [here](https://hussam.substack.com/), on [Twitter](https://www.twitter.com/hussamfyi) and [LinkedIn](https://www.linkedin.com/in/hussamfyi) as part of Write of Passage's 11th Cohort
 
 I also spend half of my time consulting pre-seed to Series A fintech startups on product growth. It's how I pay the bills.
 
@@ -19,7 +18,7 @@ I also spend half of my time consulting pre-seed to Series A fintech startups on
 I'm open to product roles at growth-stage fintech or SaaS startups with a killer team and fiery mission. If you're hiring, please reach out!
 </p>
 
-[View my resume ↗](/resume.pdf)
+[View my resume ↗](https://docs.google.com/document/d/1s4q0tEAtpadEaY0zMhAkeSlFKDE0-kcKz2KalhN-7pI/edit?usp=sharing)
 
 <hr>
 
