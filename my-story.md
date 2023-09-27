@@ -3,7 +3,7 @@ layout: page
 title: Hi, I'm Hussam 👋
 ---
 
-This page is a collection of (mostly) non-work thoughts about me. If you're looking for a list of my professional accomplishments, head over to my [work](https://hussam.fyi/work/).
+This page is a collection of (mostly) non-work thoughts about me. If you're looking for a list of my professional accomplishments, head over to my [work](/now). or check out my [LinkedIn](https://www.linkedin.com/in/hussamfyi)
 
 <hr>
 
