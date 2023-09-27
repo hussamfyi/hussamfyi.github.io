@@ -1,42 +1,26 @@
 ---
 layout: titleless
-title: Product, Design and Creativity
+title: Product, Design, and Creativity
 ---
 
 <h1 class="page.title"> Hi, I'm Hussam 👋</h1>
 
-<p>I'm a product manager building digital leverage by <a href="/now">creating things on the Internet</a>. This site is my lifelog and digital playground.</p>
+<p>I’m a product manager and designer based in Toronto.</p>
+
+<p>Right now, I’m taking a break from full-time work to <a href="/now">create things on the Internet</a>. Previously, I was a product manager at <a href="https://shakepay.com">Shakepay</a> and a Founder in Residence at <a href=https://joinef.com>Entrepreneur First</a>.</p>
 
 <hr>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h2 class="post-title">
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-    </h2>
+A few links you might find interesting:
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+<li><a href="/now">What I'm doing now ↗</a></li>
+<li><a href="https://hussam.substack.com/">Writing ↗</a></li>
+<li><a href="/my-story">My story ↗</a></li>
+<li><a href="/resume.pdf">View my resume ↗</a></li>
 
-    {{ post.excerpt }}
-    {% if post.excerpt != post.content %}
-    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-    {% endif %}
-  </article>
-  {% endfor %}
-</div>
+<h2>Contact me</h2>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<p><a href="mailto:h@zaghal.ca">Email</a> is the best way to reach me, but you can also find me on:</p>
+
+<li><a href="/now">What I'm doing now ↗</a></li>
+<li><a href="/now">What I'm doing now ↗</a></li>
