@@ -1,0 +1,42 @@
+---
+layout: titleless
+title: Product, Design and Creativity
+---
+
+<h1 class="page.title"> Hi, I'm Hussam 👋</h1>
+
+<p>I'm a product manager building digital leverage by <a href="/now">creating things on the Internet</a>. This site is my lifelog and digital playground.</p>
+
+<hr>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h2 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    {{ post.excerpt }}
+    {% if post.excerpt != post.content %}
+    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+    {% endif %}
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
