@@ -7,10 +7,9 @@ title: What I'm doing now
 
 Currently, I am:
 
-* Self-teaching product design (and visual tools like Figma and Framer)
-* Writing [here](https://hussam.substack.com/), on [Twitter](https://www.twitter.com/hussamfyi) and [LinkedIn](https://www.linkedin.com/in/hussamfyi) as part of [Write of Passage](https://writeofpassage.school/)'s 11th Cohort
-
-I also spend half of my time consulting pre-seed to Series A fintech startups on product growth. It's how I pay the bills.
+* Consulting pre-seed to Series A fintech startups on product growth
+* Learning UI design with [ShiftNudge](https://shiftnudge.com/) (and learning to code with SwiftUI)
+* Writing [here](https://hussam.substack.com/) as part of [Write of Passage](https://writeofpassage.school/)'s 11th Cohort
 
 <hr>
 
