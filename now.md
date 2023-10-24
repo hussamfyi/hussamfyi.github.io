@@ -8,8 +8,8 @@ title: What I'm doing now
 Currently, I am:
 
 * Consulting pre-seed to Series A fintech startups on product growth
-* Learning UI design with [ShiftNudge](https://shiftnudge.com/) (and learning to code with SwiftUI)
-* Writing [here](https://hussam.substack.com/) as part of [Write of Passage](https://writeofpassage.school/)'s 11th Cohort
+* Developing my product design skills: UI/UX via [ShiftNudge](https://shiftnudge.com/), SwiftUI and Spline for 3D
+* Writing on [blog](https://hussam.substack.com/) as part of [Write of Passage](https://writeofpassage.school/)'s 11th Cohort
 
 <hr>
 
